@@ -1,6 +1,6 @@
 {
   "name": "egg-access-log",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "eggPlugin": {
     "name": "accessLog"
@@ -46,12 +46,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-access-log.git"
+    "url": "git+https://github.com/maox1987/egg-access-log.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/maox1987/egg-access-log/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-access-log#readme",
+  "homepage": "https://github.com/maox1987/egg-access-log/blob/master/README.md",
   "author": "maox",
   "license": "MIT"
 }
