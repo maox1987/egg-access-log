@@ -1,0 +1,13 @@
+{
+  "extends": "eslint-config-egg",
+  "rules": {
+    "valid-jsdoc": 0,
+    "eqeqeq": 0,
+    "no-multiple-empty-lines":"off",
+    "space-before-function-paren":"off",
+    "semi":0,
+    "no-unused-vars": 1,
+    "no-trailing-spaces": 0,
+    "comma-dangle": 0
+  }
+}
